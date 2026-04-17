@@ -1,5 +1,7 @@
 # RoboEats Cafe: Multi-Robot Task Allocation
 
+![Demo](demo/Demo.gif)
+
 This project implements a two-robot delivery planner in IRSim for the RoboEats Cafe environment.
 
 Given a list of target tables, the system:
@@ -98,4 +100,4 @@ Simulation entry is `src/lab4.py`:
 
 ## Demo Folder
 
-The `demo/` directory is included in this repository.
+![Demo](demo/Demo.gif)
